@@ -1,5 +1,3 @@
-# This line has been added to demostrate the usage of "git pull"command
-## ********************************************************************
 
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 
